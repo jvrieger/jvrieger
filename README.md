@@ -1,6 +1,6 @@
 `Julia Rieger`
 ==============
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HEX+code+aficionado;Late+night+coffee+drinker;Creative+technologist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F72EA5&background=FCFFB500&center=true&multiline=true&width=435&height=80&lines=HEX+code+aficionado;Late+night+coffee+drinker;Creative+technologist)](https://git.io/typing-svg)
 
 ### Hi there traveler 👾
 🔭 I’m currently working on creating a custom [Freewrite Traveler](https://getfreewrite.com/products/freewrite-traveler)
@@ -11,9 +11,7 @@
 
 ⚡ Fun fact: I love producing electronic music!
 
-<span style="color:red">
-Text content
-</span>
+
 
 
 <!--
