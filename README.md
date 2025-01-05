@@ -3,9 +3,12 @@
 
 ### Hi there traveler 👾
 🔭 I’m currently working on creating a custom [Freewrite Traveler](https://getfreewrite.com/products/freewrite-traveler)
+
 🌱 I’m currently learning about computer graphics and game technology
 
+
 📫 How to reach me: juliavrieger@gmail.com
+
 ⚡ Fun fact: I love producing electronic music!
 
 <!--
