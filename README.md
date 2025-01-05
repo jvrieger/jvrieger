@@ -1,5 +1,6 @@
 `Julia Rieger`
 ==============
+<h3 style="text-align:center;">H3 that is center aligned</h3>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F72EA5&background=FCFFB500&center=true&multiline=true&width=435&height=80&lines=HEX+code+aficionado;Late+night+coffee+drinker;Creative+technologist)](https://git.io/typing-svg)
 
 ### Hi there traveler 👾
