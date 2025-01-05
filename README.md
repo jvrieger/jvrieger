@@ -1,4 +1,7 @@
-## Hi there traveler 👾
+# Julia Rieger
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HEX+code+aficionado;Late+night+coffee+drinker;Creative+technologist)](https://git.io/typing-svg)
+
+### Hi there traveler 👾
 🔭 I’m currently working on creating a custom [Freewrite Traveler](https://getfreewrite.com/products/freewrite-traveler)
 🌱 I’m currently learning about computer graphics and game technology
 
@@ -20,4 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HEX+code+aficionado;Late+night+coffee+drinker;Creative+technologist)](https://git.io/typing-svg)
+
