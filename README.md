@@ -11,8 +11,9 @@
 
 ⚡ Fun fact: I love producing electronic music!
 
-<span style="color:blue">some *blue* text</span>
-
+<span style="color:red">
+Text content
+</span>
 
 
 <!--
