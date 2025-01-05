@@ -7,10 +7,13 @@
 
 🌱 I’m currently learning about Computer Graphics and Game Technology
 
-
 📫 How to reach me: <juliavrieger@gmail.com>
 
 ⚡ Fun fact: I love producing electronic music!
+
+<span style="color:blue">some *blue* text</span>
+
+
 
 <!--
 **jvrieger/jvrieger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
