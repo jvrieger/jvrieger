@@ -1,4 +1,5 @@
-# Julia Rieger
+`Julia Rieger`
+==============
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HEX+code+aficionado;Late+night+coffee+drinker;Creative+technologist)](https://git.io/typing-svg)
 
 ### Hi there traveler 👾
