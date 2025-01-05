@@ -8,7 +8,7 @@
 🌱 I’m currently learning about computer graphics and game technology
 
 
-📫 How to reach me: juliavrieger@gmail.com
+📫 How to reach me: <juliavrieger@gmail.com>
 
 ⚡ Fun fact: I love producing electronic music!
 
